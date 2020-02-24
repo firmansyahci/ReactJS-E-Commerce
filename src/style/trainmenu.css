@@ -1,0 +1,12 @@
+.list-menu{
+    width: 5%;
+    height: 561px;
+    background-color: white;
+    float: left;
+    position: relative;
+    z-index: -10;
+}
+.list-menu img {
+    margin-top: 32px;
+    margin-left: 6px;
+}

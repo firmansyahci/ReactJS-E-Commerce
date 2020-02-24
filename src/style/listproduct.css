@@ -1,0 +1,8 @@
+.list-product{
+    width: 65%;
+    height: 561px;
+    background-color: #cec3c3;
+    float: left;
+    position: relative;
+    z-index: -10;
+}

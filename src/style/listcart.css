@@ -1,0 +1,26 @@
+.list-cart{
+    width: 30%;
+    height: 561px;
+    background-color: #FFF;
+    float: left;
+    position: relative;
+    z-index: -10;
+}
+.cart-null {
+    position: relative;
+    top: 128px;
+    width: 100%;
+    height: 170px;
+    background-color: blue;
+    text-align: center;
+}
+.cart-null img, .cart-null span {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    transition: all 2s ease-in-out;
+}
+
+.cart-null span{
+    text-align: center;
+}
